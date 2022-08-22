@@ -1,4 +1,4 @@
-# Transfer animation styles using Deep-Learning models, cycleGAN
+# Animation style transfer using Deep-Learning models, cycleGAN
 The goal of this project is to see if deep learning models can learn the animation styles of different studios or mediums. This project use animations from Pixar and 
 Studio Ghibli. Pixar films use 3-Dimensional (3D) animation and Studio Ghibli uses 2-Dimensional (2D) animation.
 <br />
