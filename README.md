@@ -46,4 +46,8 @@ Ponyo to 3D:
 ![alt text](https://github.com/selienamei/Deep-Learning/blob/main/style%20transfer%20images/ponyo_to_3d.png)
 <br />
 For more images, go to style transfer images folder 
-
+<br />
+<br />
+cyclegan.py = creating the model 
+<br />
+train.py = training the model 
