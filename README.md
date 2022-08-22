@@ -1,6 +1,6 @@
 # Animation style transfer using Deep-Learning models, cycleGAN
 The goal of this project is to see if deep learning models can learn the animation styles of different studios or mediums. This project use animations from Pixar and 
-Studio Ghibli. Pixar films use 3-Dimensional (3D) animation and Studio Ghibli uses 2-Dimensional (2D) animation.
+Studio Ghibli. Pixar films use 3-Dimensional (3D) animation and Studio Ghibli uses 2-Dimensional (2D) animation. 
 <br />
 <br />
 This is a group project, and I am only working on the cycleGAN part. For more information, there is a final report 
@@ -12,6 +12,7 @@ can be found and downloaded at
 https://animationscreencaps.com/
 <br />
 <br />
+The dataset consists of JPG screenshots or frames of various movies.  For every second of movie there are two frames (2 frames per second) as opposed to the normal 30-60 fps. After the images are processed, it is possible to transfer these images into videos. It will be interesting to see animations from Ghibli in 3D animation. 
 ## CycleGAN
 Animations used in this model: 
 <br />
